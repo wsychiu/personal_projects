@@ -1,0 +1,4 @@
+[ ] Decision Tree
+[ ] XG Boost
+[ ] Word2Vec
+[ ] Transformer / GPT-2
